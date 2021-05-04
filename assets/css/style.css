@@ -1,0 +1,25 @@
+* {
+	font-family: Roboto;
+}
+
+@font-face {
+	font-family: 'Roboto';
+	src: url('../fonts/Roboto.ttf');
+}
+
+audio:focus{
+	outline: none;
+}
+
+p {
+	text-align: justify;
+}
+
+.tabs {
+	width: 100%;
+	overflow-x: hidden;
+}
+
+th {
+	text-align: center;
+}
